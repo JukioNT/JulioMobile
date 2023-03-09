@@ -4,7 +4,7 @@ import { IPage } from "../../../App";
 import { ComponentButtonSlider, ComponentListMaker, ComponentTitleSlider } from "../../components";
 import { styles } from "./styles";
 
-export function Slider1({ setPageI }: IPage){
+export function Slider4({ setPageI }: IPage){
     const slide1Texts = [
         { id: '1', text: 'Notas'},
         { id: '2', text: 'Intervalos'},
